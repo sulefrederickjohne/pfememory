@@ -1,9 +1,9 @@
 {
-    'author': 'Curtis Bowden <curtis.bowden@gmail.com>',
-    'description': 'Check based on ISIS-MIB for monitoring status.',
-    'download_url': 'https://github.com/curtisbowden/checkmk_isis',
+    'author': 'Curtis Bowden <ericksulecanada@gmail.com>',
+    'description': 'Check based on JUNIPER-PFE-MIB for monitoring status.',
+    'download_url': 'https://github.com/sulefrederickjohne/pfememory.git',
     'files': {
-        'agent_based': ['isis_adjacency.py'],
+        'agent_based': ['pfememory.py'],
         'agents': [],
         'checkman': [],
         'checks': [],
@@ -13,8 +13,8 @@
         'pnp-templates': [],
         'web': []
     },
-    'name': 'isis',
-    'title': 'Check based on ISIS-MIB for monitoring status.',
+    'name': 'pfememory',
+    'title': 'Check based on JUNIPER-PFE-MIB for monitoring status.',
     'version': '1.0',
     'version.min_required': '2.0.0p25',
     'version.packaged': '2.0.0p25',
