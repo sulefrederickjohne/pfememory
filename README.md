@@ -1,10 +1,10 @@
-# Checkmk extension for ISIS-MIB
+# Checkmk extension for JUNIPER-PFE-MIB
 
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/curtisbowden/checkmk_isis?label=version&logo=git&sort=semver)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/sulefrederickjohne/pfememory?label=version&logo=git&sort=semver)
 
-![build](https://github.com/curtisbowden/checkmk_isis/workflows/build/badge.svg)
-![flake8](https://github.com/curtisbowden/checkmk_isis/workflows/Lint/badge.svg)
-![pytest](https://github.com/curtisbowden/checkmk_isis/workflows/pytest/badge.svg)
+![build](https://github.com/sulefrederickjohne/pfememory/workflows/build/badge.svg)
+![flake8](https://github.com/sulefrederickjohne/pfememory/workflows/Lint/badge.svg)
+![pytest](https://github.com/sulefrederickjohne/pfememory/workflows/pytest/badge.svg)
 
 
 ## Description
