@@ -9,7 +9,7 @@
 
 ## Description
 
- * isis_adjacency discovers and checks the status of ISIS adjacency for ISIS-MIB
+ * pfememory discovers and checks the status of FPC Free Next-Hop Nd Firewall for JUNIPER-PFE-MIB
 
 ## Development
 
